@@ -1,0 +1,108 @@
+[
+  {
+    "id": "001",
+    "name": "Video 1",
+    "urlVideo": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
+    "urlThumbnail": "https://cdn2.medihub.vn/ImagesUpload/2021/06/16/dbad665a-b0dd-4c4c-9d70-b4806c82e47e_strepsils.jpg",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "organizer": "Reckitt Benckiser, PharmaCom",
+    "overviewData": [
+      {
+        "title": "Dược sĩ xem clip",
+        "numTarget": 3000,
+        "numProgress": 1545
+      },
+      {
+        "title": "Dược sĩ hoàn thành khảo sát",
+        "numTarget": 2000,
+        "numProgress": 620
+      }
+    ],
+    "objectTypeData": [
+      {
+        "category": "Dược sĩ",
+        "amount": 70
+      },
+      {
+        "category": "Nhà thuốc",
+        "amount": 30
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 35
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 25
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 10
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 5
+      },
+      {
+        "category": "Khác",
+        "amount": 25
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Video 2",
+    "urlVideo": "https://media.medihub.vn/UploadFiles/Video/2021/06/11/14acd8a1-3774-420c-bc21-30b803cbd27c_GavisconDA_RaftFormation.mp4",
+    "urlThumbnail": "https://cdn2.medihub.vn/ImagesUpload/2021/06/16/a5c4092a-75fb-4729-a7e1-e2ec3c5bdc39_gaviscon.jpg",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "organizer": "Reckitt Benckiser, PharmaCom",
+    "overviewData": [
+      {
+        "title": "Dược sĩ xem clip",
+        "numTarget": 4000,
+        "numProgress": 2254
+      },
+      {
+        "title": "Dược sĩ hoàn thành khảo sát",
+        "numTarget": 2000,
+        "numProgress": 1024
+      }
+    ],
+    "objectTypeData": [
+      {
+        "category": "Dược sĩ",
+        "amount": 80
+      },
+      {
+        "category": "Nhà thuốc",
+        "amount": 20
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 36
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 24
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 10
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 5
+      },
+      {
+        "category": "Khác",
+        "amount": 25
+      }
+    ]
+  }
+]

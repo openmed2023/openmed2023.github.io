@@ -1,0 +1,448 @@
+[
+  {
+    "id": "001",
+    "name": "Khóa học 1",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "numPeriod": 12,
+    "donors": "",
+    "organizer": "Reckitt Benckiser, PharmaCom, ĐH Y Khoa Phạm Ngọc Thạch",
+    "companionUnit": "",
+    "overviewData": [
+      {
+        "title": "Tham gia khóa học",
+        "numTarget": 2500,
+        "numProgress": 1515
+      },
+      {
+        "title": "Hoàn thành khóa học",
+        "numTarget": 2000,
+        "numProgress": 860
+      },
+      {
+        "title": "Đủ điều kiện nhận chứng nhận CPE",
+        "numTarget": 1800,
+        "numProgress": 500
+      }
+    ],
+    "objectTypeData": [
+      {
+        "category": "Dược sĩ",
+        "amount": 95
+      },
+      {
+        "category": "Nhà thuốc",
+        "amount": 5
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 29
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 14
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 7
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 3
+      },
+      {
+        "category": "Khác",
+        "amount": 47
+      }
+    ],
+    "managerData": [
+      {
+        "name": "Nguyễn Văn A",
+        "reps": [
+          {
+            "name": "Lê Thanh Liên",
+            "manager": 35,
+            "active": 30,
+            "complete": 26,
+            "certify": 20
+          },
+          {
+            "name": "Võ Thành Công",
+            "manager": 35,
+            "active": 21,
+            "complete": 16,
+            "certify": 10
+          },
+          {
+            "name": "Phan Thieu",
+            "manager": 35,
+            "active": 24,
+            "complete": 16,
+            "certify": 11
+          },
+          {
+            "name": "Lê Thị Như",
+            "manager": 35,
+            "active": 26,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Thu Thảo",
+            "manager": 35,
+            "active": 28,
+            "complete": 19,
+            "certify": 13
+          },
+          {
+            "name": "Lê Công Thành",
+            "manager": 35,
+            "active": 30,
+            "complete": 25,
+            "certify": 22
+          }
+        ]
+      },
+      {
+        "name": "Nguyễn Văn B",
+        "reps": [
+          {
+            "name": "Lê Thanh Liên",
+            "manager": 35,
+            "active": 30,
+            "complete": 26,
+            "certify": 20
+          },
+          {
+            "name": "Huỳnh Thị Linh",
+            "manager": 35,
+            "active": 35,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Tuấn Anh",
+            "manager": 35,
+            "active": 32,
+            "complete": 28,
+            "certify": 22
+          }
+        ]
+      },
+      {
+        "name": "Nguyễn Văn C",
+        "reps": [
+          {
+            "name": "Võ Thành Công",
+            "manager": 35,
+            "active": 21,
+            "complete": 16,
+            "certify": 10
+          },
+          {
+            "name": "Cao Xuân Thành",
+            "manager": 35,
+            "active": 32,
+            "complete": 27,
+            "certify": 23
+          },
+          {
+            "name": "Phan Thieu",
+            "manager": 35,
+            "active": 24,
+            "complete": 16,
+            "certify": 11
+          },
+          {
+            "name": "Lê Thị Như",
+            "manager": 35,
+            "active": 26,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Thu Thảo",
+            "manager": 35,
+            "active": 28,
+            "complete": 19,
+            "certify": 13
+          },
+          {
+            "name": "Lê Công Thành",
+            "manager": 35,
+            "active": 34,
+            "complete": 28,
+            "certify": 22
+          }
+        ]
+      }
+    ],
+    "lessonProgressData": [
+      {
+        "lesson": 1,
+        "nameLesson": "Bài học 1",
+        "author": "",
+        "view": 1875,
+        "finish": 1700,
+        "test": 1625,
+        "complete": 1450,
+        "rating": 1300
+      },
+      {
+        "lesson": 2,
+        "nameLesson": "Bài học 2",
+        "author": "",
+        "view": 1750,
+        "finish": 1650,
+        "test": 1525,
+        "complete": 1425,
+        "rating": 1325
+      },
+      {
+        "lesson": 3,
+        "nameLesson": "Bài học 3",
+        "author": "",
+        "view": 1800,
+        "finish": 1675,
+        "test": 1625,
+        "complete": 1525,
+        "rating": 1275
+      },
+      {
+        "lesson": 4,
+        "nameLesson": "Bài học 4",
+        "author": "",
+        "view": 1725,
+        "finish": 1575,
+        "test": 1375,
+        "complete": 1250,
+        "rating": 1200
+      },
+      {
+        "lesson": 5,
+        "nameLesson": "Bài học 5",
+        "author": "",
+        "view": 1725,
+        "finish": 1575,
+        "test": 1375,
+        "complete": 1250,
+        "rating": 1200
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Khóa học 2",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "numPeriod": 24,
+    "donors": "Ipsen",
+    "organizer": "Reckitt Benckiser, PharmaCom, ĐH Y Khoa Phạm Ngọc Thạch",
+    "companionUnit": "",
+    "overviewData": [
+      {
+        "title": "Tham gia khóa học",
+        "numTarget": 1500,
+        "numProgress": 1200
+      },
+      {
+        "title": "Hoàn thành khóa học",
+        "numTarget": 1400,
+        "numProgress": 1100
+      },
+      {
+        "title": "Đủ điều kiện nhận chứng nhận CPE",
+        "numTarget": 1300,
+        "numProgress": 800
+      }
+    ],
+    "objectTypeData": [
+      {
+        "category": "Dược sĩ",
+        "amount": 100
+      },
+      {
+        "category": "Nhà thuốc",
+        "amount": 0
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 25
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 23
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 15
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 5
+      },
+      {
+        "category": "Khác",
+        "amount": 32
+      }
+    ],
+    "managerData": [
+      {
+        "name": "Nguyễn Văn A",
+        "reps": [
+          {
+            "name": "Lê Thanh Liên",
+            "manager": 35,
+            "active": 30,
+            "complete": 26,
+            "certify": 20
+          },
+          {
+            "name": "Võ Thành Công",
+            "manager": 35,
+            "active": 21,
+            "complete": 16,
+            "certify": 10
+          },
+          {
+            "name": "Phan Thieu",
+            "manager": 35,
+            "active": 24,
+            "complete": 16,
+            "certify": 11
+          },
+          {
+            "name": "Lê Thị Như",
+            "manager": 35,
+            "active": 26,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Thu Thảo",
+            "manager": 35,
+            "active": 28,
+            "complete": 19,
+            "certify": 13
+          },
+          {
+            "name": "Lê Công Thành",
+            "manager": 35,
+            "active": 35,
+            "complete": 28,
+            "certify": 28
+          }
+        ]
+      },
+      {
+        "name": "Nguyễn Văn B",
+        "reps": [
+          {
+            "name": "Lê Thanh Liên",
+            "manager": 35,
+            "active": 30,
+            "complete": 26,
+            "certify": 20
+          },
+          {
+            "name": "Huỳnh Thị Linh",
+            "manager": 35,
+            "active": 35,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Tuấn Anh",
+            "manager": 35,
+            "active": 32,
+            "complete": 28,
+            "certify": 22
+          }
+        ]
+      },
+      {
+        "name": "Nguyễn Văn C",
+        "reps": [
+          {
+            "name": "Võ Thành Công",
+            "manager": 35,
+            "active": 21,
+            "complete": 16,
+            "certify": 10
+          },
+          {
+            "name": "Cao Xuân Thành",
+            "manager": 35,
+            "active": 32,
+            "complete": 27,
+            "certify": 23
+          },
+          {
+            "name": "Phan Thieu",
+            "manager": 35,
+            "active": 24,
+            "complete": 16,
+            "certify": 11
+          },
+          {
+            "name": "Lê Thị Như",
+            "manager": 35,
+            "active": 26,
+            "complete": 20,
+            "certify": 15
+          },
+          {
+            "name": "Trần Thu Thảo",
+            "manager": 35,
+            "active": 28,
+            "complete": 19,
+            "certify": 13
+          },
+          {
+            "name": "Lê Công Thành",
+            "manager": 35,
+            "active": 34,
+            "complete": 28,
+            "certify": 22
+          }
+        ]
+      }
+    ],
+    "lessonProgressData": [
+      {
+        "lesson": 1,
+        "nameLesson": "Bài học 1",
+        "author": "",
+        "view": 1875,
+        "finish": 1700,
+        "test": 1625,
+        "complete": 1450,
+        "rating": 1300
+      },
+      {
+        "lesson": 2,
+        "nameLesson": "Bài học 2",
+        "author": "",
+        "view": 1750,
+        "finish": 1650,
+        "test": 1525,
+        "complete": 1425,
+        "rating": 1325
+      },
+      {
+        "lesson": 3,
+        "nameLesson": "Bài học 3",
+        "author": "",
+        "view": 1800,
+        "finish": 1675,
+        "test": 1625,
+        "complete": 1525,
+        "rating": 1275
+      }
+    ]
+  }
+]

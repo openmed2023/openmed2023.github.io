@@ -1,0 +1,92 @@
+[
+  {
+    "id": "001",
+    "name": "Chương trình 1",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "overviewData": [
+      {
+        "title": "Dược sĩ tham gia",
+        "numTarget": 5000,
+        "numProgress": 3380
+      },
+      {
+        "title": "Nhà thuốc tham gia",
+        "numTarget": 2000,
+        "numProgress": 600
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 27
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 15
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 10
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 5
+      },
+      {
+        "category": "Khác",
+        "amount": 43
+      }
+    ],
+    "stampScan": 9452,
+    "pointInSystem": 283560,
+    "pointRedeemed": 13650,
+    "pointNotRedeemed": 269910,
+    "giftRedeemed": 455
+  },
+  {
+    "id": "002",
+    "name": "Chương trình 2",
+    "dateStart": "01/07/2023",
+    "dateEnd": "15/10/2023",
+    "overviewData": [
+      {
+        "title": "Dược sĩ tham gia",
+        "numTarget": 1500,
+        "numProgress": 400
+      },
+      {
+        "title": "Nhà thuốc tham gia",
+        "numTarget": 1000,
+        "numProgress": 600
+      }
+    ],
+    "provinceData": [
+      {
+        "category": "Hồ Chí Minh",
+        "amount": 26
+      },
+      {
+        "category": "Hà Nội",
+        "amount": 16
+      },
+      {
+        "category": "Đà Nẵng",
+        "amount": 10
+      },
+      {
+        "category": "Cần Thơ",
+        "amount": 5
+      },
+      {
+        "category": "Khác",
+        "amount": 43
+      }
+    ],
+    "stampScan": 9002,
+    "pointInSystem": 10000,
+    "pointRedeemed": 6538,
+    "pointNotRedeemed": 250,
+    "giftRedeemed": 45
+  }
+]
